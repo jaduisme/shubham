@@ -1,0 +1,6 @@
+{
+  "name": "KDP Book Builder",
+  "description": "Easily create high-quality KDP book covers and format manuscripts with professional automated templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
